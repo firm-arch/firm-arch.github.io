@@ -9,8 +9,8 @@
 
 <channel>
 	<title>FIRM</title>
-	<atom:link href="http://firm.test/feed/" rel="self" type="application/rss+xml" />
-	<link>http://firm.test/</link>
+	<atom:link href="http://firm-arch.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://firm-arch.github.io/</link>
 	<description></description>
 	<lastBuildDate>Wed, 22 Nov 2023 08:46:13 +0000</lastBuildDate>
 	<language>vi</language>
